@@ -9,6 +9,6 @@ entries:
     name: demo1
     type: application
     urls:
-    - https://kirandevtn.github.com/demo1/demo1-0.1.0.tgz
+    - https://kirandevtn.github.io/demo1/demo1-0.1.0.tgz
     version: 0.1.0
 generated: "2024-01-31T13:56:57.894377+05:30"
